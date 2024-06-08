@@ -9,7 +9,9 @@
 
 name: "Publish Docker image helmfile-jre17"
 description: "A base container with helmfile, helm and Temurin 17 Java Runtime Environment"
-
+branding:
+  icon: anchor
+  color: purple
 on:
   release:
     types: [ published ]
