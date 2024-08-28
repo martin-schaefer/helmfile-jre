@@ -1,4 +1,4 @@
-FROM ghcr.io/helmfile/helmfile-debian-stable-slim:v0.165.0
+FROM ghcr.io/helmfile/helmfile-debian-stable-slim:v0.167.1
 LABEL org.opencontainers.image.source="https://github.com/martin-schaefer/helmfile-jre17"
 LABEL org.opencontainers.image.description="A base container with helmfile, helm and Java 17 Runtime Environment (Temurin)"
 LABEL org.opencontainers.image.licenses="Apache License v2.0"
