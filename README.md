@@ -1,2 +1,2 @@
-# helmfile-jre17
-A base container with helmfile, helm and Temurin 17 Java Runtime Environment
+# helmfile-jre
+A base container with git, helmfile, helm and Temurin 21 Java Runtime Environment.
