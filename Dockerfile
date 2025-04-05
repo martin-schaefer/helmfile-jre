@@ -1,6 +1,6 @@
 FROM ghcr.io/helmfile/helmfile-debian-stable-slim:v1.0.0-rc.12
 LABEL org.opencontainers.image.source="https://github.com/martin-schaefer/helmfile-jre"
-LABEL org.opencontainers.image.description="A base container with helmfile, helm and Java 21 Runtime Environment (Temurin)"
+LABEL org.opencontainers.image.description="A base container with git, helmfile, helm and Java 21 Runtime Environment (Temurin)"
 LABEL org.opencontainers.image.licenses="Apache License v2.0"
 
 # Set environment variables for non-interactive installation
